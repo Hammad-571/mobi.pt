@@ -1,0 +1,4 @@
+function validazione()
+{
+    alert("hello");
+}
